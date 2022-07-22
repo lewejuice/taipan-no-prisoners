@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "taipan-no-prisoners"
+version = "42.0.0"
+description = "Taipan no prisoners"
+authors = ["Lewis Hamilton <lewejuice@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+cherrypy = "^18.6"
